@@ -1,3 +1,7 @@
+# Assignment: M03 Lab - Case Study: Lists, Functions, and Classes
+# Class: Software Development - Python
+# User: Joseph Basile
+
 # The parent class that defines vehicle type, in this case it'll be car
 class Vehicle():
     def __init__(self, type):
